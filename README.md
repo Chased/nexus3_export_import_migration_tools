@@ -1,3 +1,4 @@
+#MAKE NEW USERFULL TOOL https://github.com/Chased/nexus-cli/releases/tag/nexus-cli
 
 # Nexus Repository Management Scripts
 
